@@ -1,0 +1,38 @@
+.winner
+{
+	color: green;
+}
+
+body 
+{
+  background-color: powderblue;
+  padding: 30px;
+}
+
+h1
+{
+  color: blue;
+}
+
+p
+{
+  color: red;
+}
+
+p,h1
+{
+	font-weight: bolder;
+}
+
+#inputField
+{
+	border: 3px solid black;
+	border-radius: 7px;
+}
+
+div h2 span
+{
+	color: green;
+	font-size: 3em;
+	font-weight: bolder;
+}
